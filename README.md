@@ -6,3 +6,5 @@ Database.When a button in pressed, it's associated image link is fetched from fi
 the image is downloaded from the link and displayed in the app.
 
 This app is optimised for iOS 10.
+
+Upon cloning the app, change the folder to "Dynamic GIFS".
