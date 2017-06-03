@@ -1,0 +1,6 @@
+framework module Pods_Dynamic_GIFS {
+  umbrella header "Pods-Dynamic GIFS-umbrella.h"
+
+  export *
+  module * { export * }
+}
