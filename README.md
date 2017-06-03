@@ -8,4 +8,4 @@ the image is downloaded from the link and displayed in the app.
 This app is optimised for iOS 10.
 
 NOTE:-
-Upon cloning the app, change the folder to "Dynamic GIFS".
+Upon cloning the file, change the folder to "Dynamic GIFS".
