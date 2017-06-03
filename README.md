@@ -8,4 +8,5 @@ the image is downloaded from the link and displayed in the app.
 This app is optimised for iOS 10.
 
 NOTE:-
-Upon cloning the files, change the folder name to "Dynamic GIFS".
+Upon cloning the files, drag the .xcodeproj file into .xcworkspace file
+.
